@@ -1,0 +1,546 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+	.logo {
+    width: 183px;
+}
+.menu ul li a{
+	font-size: 18px;
+	padding: 10px 0 0 !important;
+	text-align: right;
+}
+.button1 {
+    padding: 10px 0 0 !important;
+    float: right;
+}
+.b_button {
+    padding-top: 0px;
+    padding-bottom: 16px;
+}
+.b_button1 {
+    height: 28px;
+    width: 80px;
+    border-radius: 25px;
+}
+.b_p {
+    font-size: 8px;
+}
+.b_desc {
+    padding-top: 0px;
+    font-size: 8.72px;
+}
+.b_title {
+    padding-top: 22px;
+    font-size: 29.63px;
+}
+.card1 {
+    font-size: 8.08px;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 0px;
+}
+.card2 {
+    font-size: 4.85px;
+    text-align: center;
+}
+.abrar {
+    width: 65px;
+    height: 65px;
+}
+.abc {
+    padding-bottom: 3px;
+}
+.cm_text {
+    font-size: 7.23px;
+    font-weight: 400;
+}
+.cm_h1 {
+    padding-top: 8px;
+    padding-bottom: 1px;
+    font-size: 10.66px;
+}
+.b1_button {
+    padding-bottom: 9px;
+}
+.b_p {
+    font-size: 5px;
+}
+.b_button1 {
+    height: 19px;
+    width: 60px;
+    border-radius: 27px;
+}
+.b1_desc {
+    font-size: 8.72px;
+    padding-bottom: 0px;
+}
+.b1_title {
+    font-size: 14px;
+    padding-top: 44px;
+    padding-bottom: 4px;
+}
+.abrar1 {
+    padding-top: 47px;
+    width: 116px;
+}
+.asrar {
+    padding-bottom: 52px;
+}
+.pic {
+    height: 88px;
+}
+.last {
+    padding-top: 5px;
+    padding-bottom: 4px;
+}
+.card6 {
+    font-size: 6.67px;
+    font-weight: 400;
+    padding-bottom: 2px;
+}
+.card7 {
+    font-size: 8.9px;
+    font-weight: 700;
+    padding-bottom: 12px;
+}
+.f_button {
+    padding-bottom: 59px;
+}
+.input1 {
+    height: 23px;
+    border-radius: 30px;
+    font-size: 5px;
+}
+.input2 {
+    width: 35px;
+    height: 22px;
+    text-transform: uppercase;
+    background-color: #21243d;
+    color: white;
+    font-size: 4px;
+    border-radius: 30px;
+    padding: 0;
+}
+.hi{
+    padding-top: 24px;
+    padding-bottom: 1px;
+    font-size: 10.66px;
+}
+.f_1 h2 {
+    font-size: 28.6px;
+}
+.f_1 p {
+    font-size: 14.7px;
+    }
+    .c_icon ul li {
+    margin-right: 6px !important;
+}
+.f_2 h2 {
+    font-size: 21.6px;
+    padding-bottom: 13px;
+}
+.f_2 ul li a {
+    font-size: 14.7px
+    }
+    .f_2 {
+    margin-top: 33px;
+}
+.f_1 {
+    text-align: center;
+}
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	.menu ul li a{
+	font-size: 20px;
+	padding: 10px 0 0 !important;
+	text-align: right;
+}
+.button1 {
+    padding: 10px 0 0 !important;
+    float: right;
+}
+
+.b_button {
+    padding-top: 0px;
+    padding-bottom: 29px;
+}
+.b_desc {
+    padding-top: 0px;
+    font-size: 14.72px;
+}
+.b_title {
+    padding-top: 69px;
+    font-size: 46.63px;
+}
+.b_button1 {
+    height: 44px;
+    width: 170px;
+    border-radius: 21px;
+}
+.b_p {
+    font-size: 19px;
+}
+.abrar {
+    width: 115px;
+    height: 115px;
+}
+.card2 {
+    font-size: 9.85px;
+    font-weight: 400;
+    text-align: center;
+}
+.card1 {
+    font-size: 15.08px;
+    text-align: center;
+    padding-top: 7px;
+    padding-bottom: 0px;
+}
+.abc {
+    padding-bottom: 11px;
+}
+.cm_text {
+    font-size: 12.23px;
+    padding-bottom: 1px;
+}
+.cm_h1 {
+    padding-top: 21px;
+    padding-bottom: 5px;
+    font-size: 20.66px;
+}
+ .abrar1 {
+    padding-top: 72px;
+    width: 220px;
+}
+.b1_button {
+    padding-bottom: 47px;
+}
+.b1_desc {
+    font-size: 12.72px;
+    padding-bottom: 4px;
+}
+.b1_title {
+    font-size: 26px;
+    padding-top: 93px;
+    padding-bottom: 15px;
+}
+.abrar1 {
+    padding-top: 72px;
+    width: 220px;
+}
+.asrar {
+    padding-bottom: 89px;
+}
+.pic {
+    height: 225px;
+}
+.last {
+    padding-top: 4px;
+    padding-bottom: 1px;
+}
+.card6 {
+    font-size: 10.67px;
+    padding-bottom: 1px;
+}
+.card7 {
+    font-size: 14.9px;
+    padding-bottom: 1px;
+}
+.input2 {
+    width: 111px;
+    height: 46px;
+    font-size: 11px;
+}
+.input1 {
+    height: 46px;
+    font-size: 14px;
+}
+.f_button {
+    padding-bottom: 91px;
+}
+.f_2{
+	margin-top: 30px;
+}
+.c_icon ul li {
+    margin-right: 13px !important;
+}
+.f_1 {
+    text-align: center;
+}
+}
+
+
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	.menu ul li a{
+	padding: 10px 0 0 !important;
+	text-align: right;
+}
+.button1 {
+    padding: 10px 0 0 !important;
+    float: right;
+}
+.b_button {
+    padding-top: 0px;
+    padding-bottom: 60px;
+}
+.b_desc {
+    padding-top: 0px;
+    font-size: 24.72px;
+}
+.b_title {
+    padding-top: 45px;
+    font-size: 69.63px;
+}
+.cm_h1 {
+    padding-top: 32px;
+    padding-bottom: 8px;
+    font-size: 29.66px;
+}
+.cm_text {
+    font-size: 17.23px;
+    padding-bottom: 1px;
+}
+.abc {
+    padding-bottom: 25px;
+}
+.abrar {
+    width: 158px;
+    height: 158px;
+}
+.card1 {
+    font-size: 20.08px;
+    text-align: center;
+    padding-top: 9px;
+    padding-bottom: 0px;
+}
+.card2 {
+    font-size: 13.85px;
+    text-align: center;
+}
+.b_button1 {
+    height: 55px;
+    width: 187px;
+    background-color: #21243d !important;
+    border-radius: 30px;
+}
+.b1_desc {
+    font-size: 17.72px;
+    padding-bottom: 9px;
+}
+.b1_title {
+    font-size: 43px;
+    padding-top: 113px;
+    padding-bottom: 19px;
+}
+.abrar1 {
+    padding-top: 135px;
+    width: 260px;
+}
+.asrar {
+    padding-bottom: 100px;
+}
+.card7 {
+    font-size: 29.9px;
+    padding-bottom: 40px;
+}
+.card6 {
+    font-size: 17.67px;
+    padding-bottom: 2px;
+}.last {
+    padding-top: 14px;
+    padding-bottom: 8px;
+}
+.c_form {
+    padding-bottom: 63px;
+}
+.f_button {
+    padding-bottom: 123px;
+}
+/*.cm_text {
+    font-size: 17.23px;
+    padding-bottom: 37px;
+}
+.cm_h1 {
+    padding-top: 45px;
+    padding-bottom: 15px;
+    font-size: 29.66px;
+}*/
+.c_icon ul li {
+    margin-right: 5px !important;
+}
+ }
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.menu ul li a {
+    font-size: 21px;
+    padding: 0 25px !important;
+} 
+.b_button {
+    padding-top: 0px;
+    padding-bottom: 79px;
+}
+.b_desc {
+    padding-top: 0px;
+    font-size: 24.72px;
+}
+.b_title {
+    padding-top: 150px;
+    font-size: 98.63px;
+}
+/*banner*/
+.cm_h1 {
+    padding-top: 50px;
+    padding-bottom: 12px;
+    font-size: 40.66px;
+    font-weight: 700;
+}
+.cm_text {
+    font-size: 18.23px;
+    font-weight: 400;
+}
+.abc {
+    padding-bottom: 44px;
+}
+.abrar {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+.card1 {
+    font-size: 26.08px;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 1px;
+}
+.b1_button {
+    padding-bottom: 75px;
+}
+.b1_desc {
+    font-size: 23.72px;
+    padding-bottom: 30px;
+}
+.b1_title {
+    font-size: 69px;
+    padding-top: 162px;
+    padding-bottom: 27px;
+}
+.abrar1 {
+    padding-top: 127px;
+    width: 400px;
+}
+.cm_h1 {
+    padding-top: 55px;
+    padding-bottom: 25px;
+}
+    .abc {
+    padding-bottom: 37px;
+}
+.asrar {
+    padding-bottom: 115px;
+}
+.card6 {
+    font-size: 27.67px;
+    padding-bottom: 19px;
+}
+.card7 {
+    font-size: 44.9px;
+    padding-bottom: 17px;
+}
+.last {
+    padding-top: 44px;
+    padding-bottom: 12px;
+}
+.c_form {
+    padding-bottom: 140px;
+}
+
+
+ }
+
+ /* X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+	.logo {
+    padding-right: 60px;
+}
+.b_button {
+    padding-top: 0px;
+    padding-bottom: 112px;
+}
+.b_desc {
+    padding-top: 4px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 29.72px;
+}
+.b_title {
+    padding-top: 190px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 114.63px;
+    font-weight: 700;
+}
+.abc {
+    padding-bottom: 28px;
+}
+.abrar1 {
+    padding-top: 124px;
+}
+.b1_button {
+    padding-bottom: 127px;
+}
+.b1_desc {
+    font-size: 26.72px;
+    padding-bottom: 15px;
+}
+.b1_title {
+    font-size: 73px;
+    padding-top: 191px;
+    padding-bottom: 50px;
+}
+.asrar {
+    padding-bottom: 115px;
+}
+.last {
+    padding-bottom: 15px;
+}
+.card7 {
+    font-size: 41.9px;
+    padding-bottom: 2px;
+}
+.card6 {
+    font-size: 33.67px;
+    padding-bottom: 6px;
+}
+.c_form {
+    padding-bottom: 224px;
+}
+.f_button {
+    padding-bottom: 311px;
+}
+ }
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+	.logo {
+    padding-right: 85px;
+}
+.asrar {
+    padding-bottom: 184px;
+}
+.f_button {
+    padding-bottom: 370px;
+}
+ }
